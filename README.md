@@ -9,6 +9,8 @@ This study underscores the importance of thoroughly exploring vaccine hesitancy,
 
 ## Full Paper
 - [Access the Full Paper on ProQuest](https://www.proquest.com/docview/3172023683/36FB1B95614C4474PQ/1?accountid=12832&sourcetype=Dissertations%20&%20Theses)
+## Analysis Script
+- [Vaccine Hesitancy Analysis](https://github.com/Carley589/Vaccine-Hesitancy_Mixed-Methods/blob/main/Vaccine%20Hesitancy%20Analysis.R)
 ### Joint Display Visuals
 ![Visual 1](https://github.com/Carley589/Vaccine-Hesitancy_Mixed-Methods/blob/main/1.png)
 ![Visual 2](https://github.com/Carley589/Vaccine-Hesitancy_Mixed-Methods/blob/main/2.png)
