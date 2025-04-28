@@ -9,7 +9,7 @@ This study underscores the importance of thoroughly exploring vaccine hesitancy,
 
 ## Full Paper
 - [Access the Full Paper on ProQuest](https://www.proquest.com/docview/3172023683/36FB1B95614C4474PQ/1?accountid=12832&sourcetype=Dissertations%20&%20Theses)
-## R Code
+## R Code for Logistic Regression
 - [Vaccine Hesitancy Analysis](https://github.com/Carley589/Vaccine-Hesitancy_Mixed-Methods/blob/main/Vaccine%20Hesitancy%20Analysis.R)
 ## AI Prompts for Reflexive Thematic Analyses
 - [Prompts for Phase Two Analyses (PDF)](https://github.com/Carley589/Vaccine-Hesitancy_Mixed-Methods/blob/main/PROMPTS%20FOR%20PHASE%20TWO%20ANALYSES.pdf)
