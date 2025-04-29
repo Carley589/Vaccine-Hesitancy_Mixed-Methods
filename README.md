@@ -8,7 +8,7 @@ A survey of 260 parents revealed that those with an intuitive decision-making st
 This study underscores the importance of thoroughly exploring vaccine hesitancy, decision-making styles, and underlying beliefs while also contributing to the evolving discourse on AI's role in qualitative research.
 
 ## Full Paper
-- [Access the Full Paper on ProQuest](https://www.proquest.com/docview/3172023683/36FB1B95614C4474PQ/1?accountid=12832&sourcetype=Dissertations%20&%20Theses)
+[Access the Full Paper](https://github.com/Carley589/Vaccine-Hesitancy_Mixed-Methods/blob/main/Journey_of_Decisions_Understanding.pdf)
 ## R Code for Logistic Regression
 - [Vaccine Hesitancy Analysis](https://github.com/Carley589/Vaccine-Hesitancy_Mixed-Methods/blob/main/Vaccine%20Hesitancy%20Analysis.R)
 ## AI Prompts for Reflexive Thematic Analyses
